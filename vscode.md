@@ -15,3 +15,9 @@ Essa extensão permite uma pré-visualização dos seus códigos em markdown, ab
 ## PlatformIO IDE
 
 Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite que você faça seus códigos para Arduino ou Esp diretamente no VS Code, utilizando todas as funcionalidades de uma IDE mais completa do que a IDE do Arduino.[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
+
+## Caverna Theme
+
+Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
+
+![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
