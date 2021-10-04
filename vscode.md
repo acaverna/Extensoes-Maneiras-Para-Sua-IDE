@@ -4,6 +4,9 @@
 
 Essa extensão colore parênteses, conchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer).
 
+> A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
+> Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
+
 ## Live Server
 
 Essa extensão é muito útil para o pessoal que desenvolve para web, pois você pode rodar os arquivos no seu navegador em modo live. E como isso funciona? Depois de abrir sua página no navegador, ela vai ser atualizada automaticamente sempre que você salvar o código da sua página. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
