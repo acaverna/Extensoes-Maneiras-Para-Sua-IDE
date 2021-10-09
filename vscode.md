@@ -43,3 +43,12 @@ O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual 
 Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 ![ThunderClient](https://github.com/rangav/thunder-client-support/blob/master/images/thunder-client.gif?raw=true)
 
+## CodeStream
+
+O CodeStream sobrecarrega os fluxos de trabalho de desenvolvimento colocando ferramentas de colaboração em seu IDE. 
+Ele suporta pedidos de retirada do GitHub, BitBucket e GitLab, gerenciamento de problemas de Jira, Trello, Asana e outros 9, e fornece discussão de código que une tudo isso, integrado com slack, ms teams, e-mail e notificações no editor. 
+Entenda, revise e escreva código mais rapidamente com o CodeStream. Obtenha respostas tão fáceis quanto "selecione o código, digite sua pergunta". 
+Salve o conhecimento institucional onde ele pertence: com seu código fonte.
+![CodeStream](https://www.codestream.com/)
+
+
