@@ -25,6 +25,13 @@ Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Cavern
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
 
+## Git Lens
+
+O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual quem criou e/ou alterou algum arquivo e alguma parte específica do código. A extensão basicamente "puxa" as informações de git blame e exibe ao lado do conteúdo de uma linha a última pessoa que fez um commit que envolvia esta parte do código, a mensagem do commit, e quando ele foi feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+![git-lens](https://user-images.githubusercontent.com/42172966/136639447-d927c9f5-df3a-4795-b634-18c976376fcb.jpg)
+
 ## Thunder Client
 
 Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
