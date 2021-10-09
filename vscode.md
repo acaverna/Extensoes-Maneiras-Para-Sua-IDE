@@ -21,3 +21,11 @@ Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite
 Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
+
+## Git Lens
+
+O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual quem criou e/ou alterou algum arquivo e alguma parte específica do código. A extensão basicamente "puxa" as informações de git blame e exibe ao lado do conteúdo de uma linha a última pessoa que fez um commit que envolvia esta parte do código, a mensagem do commit, e quando ele foi feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+![git-lens](https://user-images.githubusercontent.com/42172966/136639447-d927c9f5-df3a-4795-b634-18c976376fcb.jpg)
+
+
