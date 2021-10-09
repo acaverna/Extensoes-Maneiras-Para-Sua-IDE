@@ -25,3 +25,5 @@ Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Cavern
 ## Thunder Client
 
 Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
+![ThunderClient](https://github.com/rangav/thunder-client-support/blob/master/images/thunder-client.gif?raw=true)
