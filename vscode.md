@@ -25,6 +25,10 @@ Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Cavern
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
 
+## Error Lens
+
+O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros se destaquem na tela, destacando toda a linha sempre que um erro é gerado pela linguagem e também imprime a mensagem em linha. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
 ## Material Icon Theme
 Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
