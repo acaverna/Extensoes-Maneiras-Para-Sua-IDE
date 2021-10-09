@@ -21,3 +21,13 @@ Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite
 Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
+
+## Color Highlight
+
+Essa extensão é perfeita pra quem trabalha principalmente com front-end, pois colore todos os hexadecimais do seu código.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+## Polacode
+
+Cria uma polaroid com o seu código de forma super simples! É excelente pra compartilhar a imagem contendo o código selecionado, principalmente pra quem cria conteúdos pra comunidade.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
