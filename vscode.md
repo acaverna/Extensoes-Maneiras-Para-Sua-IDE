@@ -21,3 +21,7 @@ Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite
 Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
+
+## Thunder Client
+
+Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
