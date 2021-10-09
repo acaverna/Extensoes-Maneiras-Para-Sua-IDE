@@ -25,6 +25,9 @@ Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Cavern
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
 
+## Material Icon Theme
+Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 ## Git Lens
 
 O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual quem criou e/ou alterou algum arquivo e alguma parte específica do código. A extensão basicamente "puxa" as informações de git blame e exibe ao lado do conteúdo de uma linha a última pessoa que fez um commit que envolvia esta parte do código, a mensagem do commit, e quando ele foi feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
