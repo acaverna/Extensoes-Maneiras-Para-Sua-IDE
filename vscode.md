@@ -34,6 +34,15 @@ Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Cavern
 
 ![Caverna Theme](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
 
+## Color Highlight
+
+Essa extensão é perfeita pra quem trabalha principalmente com front-end, pois colore todos os hexadecimais do seu código.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+## Polacode
+
+Cria uma polaroid com o seu código de forma super simples! É excelente pra compartilhar a imagem contendo o código selecionado, principalmente pra quem cria conteúdos pra comunidade.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
 ## Error Lens
 
 O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros se destaquem na tela, destacando toda a linha sempre que um erro é gerado pela linguagem e também imprime a mensagem em linha. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
