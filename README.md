@@ -5,6 +5,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
 
 ## IDE's
 
+[PHPStorm](phpstorm.md)
 [Vscode](vscode.md)
 
 ## Como adicionar?
