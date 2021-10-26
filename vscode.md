@@ -1,17 +1,25 @@
 # Visual Studio Code
 - Extensões
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
+  - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
+  - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
+  - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
+  - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
+  - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
 
+- Icones
+  - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
+
 ## Bracket Pair Colorizer
 
-Essa extensão colore parênteses, conchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer).
+Essa extensão colore parênteses, colchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 > A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
 > Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
@@ -58,7 +66,7 @@ O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual 
 
 ## Thunder Client
 
-Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+Com essa extensão você consegue fazer requests, como o Postman, diretamente do VSCode. Para testar apis é uma mão na roda! [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 ![ThunderClient](https://github.com/rangav/thunder-client-support/blob/master/images/thunder-client.gif?raw=true)
 
 ## CodeStream
@@ -66,7 +74,6 @@ Com essa extensão você consegue fazer requests, como o Postman, diretamente do
 O CodeStream sobrecarrega os fluxos de trabalho de desenvolvimento colocando ferramentas de colaboração em seu IDE. 
 Ele suporta pedidos de retirada do GitHub, BitBucket e GitLab, gerenciamento de problemas de Jira, Trello, Asana e outros 9, e fornece discussão de código que une tudo isso, integrado com slack, ms teams, e-mail e notificações no editor. 
 Entenda, revise e escreva código mais rapidamente com o CodeStream. Obtenha respostas tão fáceis quanto "selecione o código, digite sua pergunta". 
-Salve o conhecimento institucional onde ele pertence: com seu código fonte.
-![CodeStream](https://www.codestream.com/)
+Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Acesse aqui.](https://www.codestream.com/)
 
 
