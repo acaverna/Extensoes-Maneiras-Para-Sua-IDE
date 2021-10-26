@@ -6,8 +6,9 @@ Sinta-se a vontade para adicionar mais extensões. :D
 ## IDE's
 
 
-[PHPStorm](phpstorm.md)
-[Vscode](vscode.md)
+###[PHPStorm](phpstorm.md)
+
+###[Vscode](vscode.md)
 - Extensões
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
