@@ -75,6 +75,5 @@ O CodeStream sobrecarrega os fluxos de trabalho de desenvolvimento colocando fer
 Ele suporta pedidos de retirada do GitHub, BitBucket e GitLab, gerenciamento de problemas de Jira, Trello, Asana e outros 9, e fornece discussão de código que une tudo isso, integrado com slack, ms teams, e-mail e notificações no editor. 
 Entenda, revise e escreva código mais rapidamente com o CodeStream. Obtenha respostas tão fáceis quanto "selecione o código, digite sua pergunta". 
 Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Acesse aqui.](https://www.codestream.com/)
-![CodeStream](https://raw.githubusercontent.com/TeamCodeStream/CodeStream/master/images/animated/SpatialVSC2.gif)
 
 
