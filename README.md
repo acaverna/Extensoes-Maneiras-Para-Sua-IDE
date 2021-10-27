@@ -8,7 +8,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
 
 ### [PHPStorm](phpstorm.md)
 - Extensões
-  - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#CSV)
+  - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#CSV)
 
 ### [Vscode](vscode.md)
 - Extensões
