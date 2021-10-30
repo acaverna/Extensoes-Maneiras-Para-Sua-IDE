@@ -6,6 +6,7 @@
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
+  - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
@@ -27,6 +28,10 @@ Essa extensão colore parênteses, colchetes e chaves correspondentes com uma me
 ## Live Server
 
 Essa extensão é muito útil para o pessoal que desenvolve para web, pois você pode rodar os arquivos no seu navegador em modo live. E como isso funciona? Depois de abrir sua página no navegador, ela vai ser atualizada automaticamente sempre que você salvar o código da sua página. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+## Live Share
+
+Essa é uma extensão que permite editar códigos de forma colaborativa com outras pessoas em tempo real, sem restrição de linguagem de programação. É uma ótima opção para fazer pair programming. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
 
 ## Markdown Preview Enhanced
 
