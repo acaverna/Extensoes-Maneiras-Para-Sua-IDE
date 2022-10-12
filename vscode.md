@@ -1,15 +1,19 @@
 # Visual Studio Code
 - Extensões
+  - [Better Comments](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#better-comments)
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
+  - [Code Runner](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-runner)
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
+  - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
   - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
+  - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
 
@@ -19,12 +23,18 @@
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
 
+## Better Comments
+Com essa extensão você pode categorizar alguns comentários do seu código com símbolos especiais ou com a palavra TODO. Os comentários que possuam categorias associadas a esta extensão serão destacados no seu código, facilitando a visualização do que ainda precisa ser feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) 
+
 ## Bracket Pair Colorizer
 
 Essa extensão colore parênteses, colchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 > A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
 > Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
+
+## Indent-Rainbow
+Essa extensão colore as suas identações, o que facilita muito a visualização nos diferentes níveis de identação do seu código. Os níveis de identação que não estão de acordo com o padrão estabelecido são destacados em vermelho, o que ajuda a identificiar esses problemas mais rápido. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 ## Live Server
 
@@ -42,6 +52,10 @@ Essa extensão permite uma pré-visualização dos seus códigos em markdown, ab
 
 Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite que você faça seus códigos para Arduino ou Esp diretamente no VS Code, utilizando todas as funcionalidades de uma IDE mais completa do que a IDE do Arduino.[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
 
+## Code Runner
+
+Extensão que permite que você rode os seus códigos com um clique ou um atalho de teclado. Tem suporte nativo para várias linguagens, e se você preferir pode configurar como um arquivo de determinada linguagem será rodado.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 ## Caverna Theme
 
 Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
@@ -81,5 +95,8 @@ O CodeStream sobrecarrega os fluxos de trabalho de desenvolvimento colocando fer
 Ele suporta pedidos de retirada do GitHub, BitBucket e GitLab, gerenciamento de problemas de Jira, Trello, Asana e outros 9, e fornece discussão de código que une tudo isso, integrado com slack, ms teams, e-mail e notificações no editor. 
 Entenda, revise e escreva código mais rapidamente com o CodeStream. Obtenha respostas tão fáceis quanto "selecione o código, digite sua pergunta". 
 Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Acesse aqui.](https://www.codestream.com/)
+
+## Regex Previewer
+Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
 
 
