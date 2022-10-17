@@ -12,6 +12,7 @@
   - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
+  - [PHP Intelephense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#php-intelephense)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
@@ -51,6 +52,10 @@ Essa extensão permite uma pré-visualização dos seus códigos em markdown, ab
 ## PlatformIO IDE
 
 Se você gosta de trabalhar com Arduino, esta é uma ótima opção, que permite que você faça seus códigos para Arduino ou Esp diretamente no VS Code, utilizando todas as funcionalidades de uma IDE mais completa do que a IDE do Arduino.[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide)
+
+## PHP Intelephense
+O PHP Intelephense é uma extensão que te ajuda a ter uma melhor produtividade quando estiver codando usando o PHP, não é como o PHP Storm, mas é o que mais chega perto 😀
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 
 ## Code Runner
 
