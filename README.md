@@ -23,6 +23,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
+  - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
