@@ -20,6 +20,7 @@
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
+  - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -104,4 +105,8 @@ Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Ac
 ## Regex Previewer
 Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
 
+## Omni Theme
 
+Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a comunidade. É um tema principalmente dark. [Acesse aqui.](https://github.com/getomni/visual-studio-code)
+
+![Omni Theme](https://camo.githubusercontent.com/2d3414ef89c3ac470d279e356288b874f3f180f035213cbf7de88c596cef297e/68747470733a2f2f692e696d6775722e636f6d2f7655514e4558562e706e67)
