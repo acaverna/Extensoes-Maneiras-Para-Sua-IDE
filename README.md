@@ -27,6 +27,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+  - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
