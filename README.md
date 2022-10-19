@@ -24,6 +24,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
+  - [TODO Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#todo-highlight)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
