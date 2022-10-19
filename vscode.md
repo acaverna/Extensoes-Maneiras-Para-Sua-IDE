@@ -16,6 +16,7 @@
   - [PHP Intelephense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#php-intelephense)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
+  - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
   - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
@@ -112,6 +113,11 @@ Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Ac
 
 ## Regex Previewer
 Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
+
+## SonarLint
+Essa extensão permite corrigir problemas de codificação antes que eles existam! Como um corretor ortográfico, o SonarLint destaca bugs e bulnerabilidades de segurança à medida que você escreve o código, com orientações claras de correção para que você possa corrigi-los. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
 ## Omni Theme
 
