@@ -9,7 +9,6 @@ Sinta-se a vontade para adicionar mais extensões. :D
 ### [PHPStorm](phpstorm.md)
 - Extensões
   - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#CSV)
-  - TESTE !@#
 
 ### [Vscode](vscode.md)
 - Extensões
@@ -25,6 +24,8 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+  - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+  - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
