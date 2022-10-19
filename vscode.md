@@ -88,7 +88,7 @@ O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros
 Essa extensão é semelhante ao GitLens, ela fornece um visual para o git log. Com ela você não precisa mais olhar o git log através do terminal.
 Ela permite comparar branches, commits e arquivos entre commits. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-![git-history](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
+![git-history](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/gitLogv3.gif)
 
 ## Material Icon Theme
 Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
