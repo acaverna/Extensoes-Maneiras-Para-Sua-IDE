@@ -6,6 +6,7 @@
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
+  - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
@@ -81,6 +82,12 @@ Cria uma polaroid com o seu código de forma super simples! É excelente pra com
 ## Error Lens
 
 O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros se destaquem na tela, destacando toda a linha sempre que um erro é gerado pela linguagem e também imprime a mensagem em linha. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+## Git History
+Essa extensão é semelhante ao GitLens, ela fornece um visual para o git log. Com ela você não precisa mais olhar o git log através do terminal.
+Ela permite comparar branches, commits e arquivos entre commits. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+![git-history](https://raw.githubusercontent.com/acaverna/caverna-vscode-theme/main/.github/theme.png)
 
 ## Material Icon Theme
 Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
