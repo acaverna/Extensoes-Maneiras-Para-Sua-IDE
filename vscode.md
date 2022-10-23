@@ -6,6 +6,7 @@
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
+  - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
@@ -15,6 +16,8 @@
   - [PHP Intelephense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#php-intelephense)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
+  - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
+  - [TODO Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#todo-highlight)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
   - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
@@ -84,6 +87,12 @@ Cria uma polaroid com o seu código de forma super simples! É excelente pra com
 
 O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros se destaquem na tela, destacando toda a linha sempre que um erro é gerado pela linguagem e também imprime a mensagem em linha. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
+## Git History
+Essa extensão é semelhante ao GitLens, ela fornece um visual para o git log. Com ela você não precisa mais olhar o git log através do terminal.
+Ela permite comparar branches, commits e arquivos entre commits. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+![git-history](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/gitLogv3.gif)
+
 ## Material Icon Theme
 Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -92,6 +101,11 @@ Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://m
 O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual quem criou e/ou alterou algum arquivo e alguma parte específica do código. A extensão basicamente "puxa" as informações de git blame e exibe ao lado do conteúdo de uma linha a última pessoa que fez um commit que envolvia esta parte do código, a mensagem do commit, e quando ele foi feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ![git-lens](https://user-images.githubusercontent.com/42172966/136639447-d927c9f5-df3a-4795-b634-18c976376fcb.jpg)
+
+## TODO Highlight
+Essa extensão destaca TODO, FIXME e outras anotação no seu código. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+
+![todo-highlight](https://raw.githubusercontent.com/wayou/vscode-todo-highlight/master/assets/material-night.png)
 
 ## Thunder Client
 
@@ -107,6 +121,11 @@ Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Ac
 
 ## Regex Previewer
 Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
+
+## SonarLint
+Essa extensão permite corrigir problemas de codificação antes que eles existam! Como um corretor ortográfico, o SonarLint destaca bugs e bulnerabilidades de segurança à medida que você escreve o código, com orientações claras de correção para que você possa corrigi-los. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
 ## Omni Theme
 
