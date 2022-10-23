@@ -21,6 +21,7 @@
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
   - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
