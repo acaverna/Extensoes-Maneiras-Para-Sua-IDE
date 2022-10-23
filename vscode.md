@@ -27,6 +27,7 @@
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
+  - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
   - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
 
 - Icones
@@ -133,6 +134,12 @@ Essa extensão permite corrigir problemas de codificação antes que eles exista
 Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a comunidade. É um tema principalmente dark. [Acesse aqui.](https://github.com/getomni/visual-studio-code)
 
 ![Omni Theme](https://camo.githubusercontent.com/2d3414ef89c3ac470d279e356288b874f3f180f035213cbf7de88c596cef297e/68747470733a2f2f692e696d6775722e636f6d2f7655514e4558562e706e67)
+
+## Drácula Theme
+
+Drácula é um tema dark para Vscode. [Acesse aqui.](https://github.com/dracula/visual-studio-code)
+
+![Drácula Theme](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
 
 ## Peacock
 
