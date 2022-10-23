@@ -24,6 +24,8 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
   - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+  - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+  - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
