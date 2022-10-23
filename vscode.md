@@ -21,6 +21,8 @@
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
   - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
+  - [Tailwind CSS IntelliSense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#tailwind-css-intellisense)
+  - [TypeScript Error Translator](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#typescript-error-translator)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
@@ -147,6 +149,18 @@ Drácula é um tema dark para Vscode. [Acesse aqui.](https://github.com/dracula/
 O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trabalha com mais de uma janela aberta em projetos diferentes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
+
+## Tailwind CSS IntelliSense
+
+O Tailwind CSS IntelliSense aprimora a experiência de desenvolvimento com Tailwind, fornecendo recursos avançados, como autocomplete, syntax highliting e linting. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+![Tailwind CSS IntelliSense](https://raw.githubusercontent.com/bradlc/vscode-tailwindcss/master/packages/vscode-tailwindcss/.github/banner.png)
+
+## TypeScript Error Translator
+
+O TypeScript Error Translator ajuda a entender melhor os erros de TypeScript, fazendo uma tradução mais 'human-readble' do error diretamente no IDE. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
+
+![TypeScript Error Translator](https://raw.githubusercontent.com/mattpocock/ts-error-translator/main/assets/screenshot.png)
 
 ## Soft Era Theme
 
