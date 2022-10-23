@@ -6,6 +6,7 @@
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
+  - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
@@ -15,15 +16,20 @@
   - [PHP Intelephense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#php-intelephense)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
+  - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
+  - [TODO Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#todo-highlight)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
   - [GitHub Copilot](https://copilot.github.com)
   - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+  - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
   - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
+  - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -84,6 +90,12 @@ Cria uma polaroid com o seu código de forma super simples! É excelente pra com
 
 O Error Lens carrega os recursos de erros da linguagem, fazendo com que os erros se destaquem na tela, destacando toda a linha sempre que um erro é gerado pela linguagem e também imprime a mensagem em linha. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
+## Git History
+Essa extensão é semelhante ao GitLens, ela fornece um visual para o git log. Com ela você não precisa mais olhar o git log através do terminal.
+Ela permite comparar branches, commits e arquivos entre commits. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+![git-history](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/gitLogv3.gif)
+
 ## Material Icon Theme
 Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -92,6 +104,11 @@ Uma extensão com ícones bonitinhos para o seu VSCode. [Acesse aqui.](https://m
 O Git Lens auxilia a pessoa desenvolvedora a entender de forma rápida e visual quem criou e/ou alterou algum arquivo e alguma parte específica do código. A extensão basicamente "puxa" as informações de git blame e exibe ao lado do conteúdo de uma linha a última pessoa que fez um commit que envolvia esta parte do código, a mensagem do commit, e quando ele foi feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ![git-lens](https://user-images.githubusercontent.com/42172966/136639447-d927c9f5-df3a-4795-b634-18c976376fcb.jpg)
+
+## TODO Highlight
+Essa extensão destaca TODO, FIXME e outras anotação no seu código. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+
+![todo-highlight](https://raw.githubusercontent.com/wayou/vscode-todo-highlight/master/assets/material-night.png)
 
 ## Thunder Client
 
@@ -107,6 +124,11 @@ Salve o conhecimento institucional onde ele pertence: com seu código fonte. [Ac
 
 ## Regex Previewer
 Essa extensão permite que você teste as suas expressões regulares utilizando para isso um arquivo textual. [Acesse aqui.](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
+
+## SonarLint
+Essa extensão permite corrigir problemas de codificação antes que eles existam! Como um corretor ortográfico, o SonarLint destaca bugs e bulnerabilidades de segurança à medida que você escreve o código, com orientações claras de correção para que você possa corrigi-los. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
 ## Omni Theme
 
@@ -125,3 +147,19 @@ Drácula é um tema dark para Vscode. [Acesse aqui.](https://github.com/dracula/
 O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trabalha com mais de uma janela aberta em projetos diferentes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
+
+## Soft Era Theme
+
+Soft Era Theme é um tema de Vscode feito pelo pessoal da [Soft Aesthetic](https://github.com/soft-aesthetic) para todas as pessoas que gostam de temas suave, quente e de baixo contraste, com detalhes em pastel que são agradáveis aos seus olhos. É um tema principalmente claro (light mode). [Acesse aqui.](https://github.com/soft-aesthetic/soft-era-vs-code)
+
+![Soft Era Theme](https://github.com/soft-aesthetic/soft-era-vs-code/raw/master/screenshot.png)
+
+## Tabnine AI Autocomplete
+
+Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O Tabnine aumentará sua velocidade de desenvolvimento com conclusões de código em tempo real em todas as linguagens de codificação e IDEs mais populares. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+![Tabnine](https://raw.githubusercontent.com/codota/tabnine-vscode/master/assets/completions-main.gif)
+
+## Discord Presence
+
+Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
