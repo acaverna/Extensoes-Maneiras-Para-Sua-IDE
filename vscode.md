@@ -22,6 +22,7 @@
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
+  - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -117,3 +118,9 @@ Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a com
 O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trabalha com mais de uma janela aberta em projetos diferentes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
+
+## One Dark Pro
+
+O One Dark Pro é um tema dark para VsCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![One Dark Pro](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/normal.png)
