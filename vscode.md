@@ -27,6 +27,7 @@
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
+  - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -139,12 +140,17 @@ O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trab
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
 
+## Soft Era Theme
+
+Soft Era Theme é um tema de Vscode feito pelo pessoal da [Soft Aesthetic](https://github.com/soft-aesthetic) para todas as pessoas que gostam de temas suave, quente e de baixo contraste, com detalhes em pastel que são agradáveis aos seus olhos. É um tema principalmente claro (light mode). [Acesse aqui.](https://github.com/soft-aesthetic/soft-era-vs-code)
+
+![Soft Era Theme](https://github.com/soft-aesthetic/soft-era-vs-code/raw/master/screenshot.png)
+
 ## Tabnine AI Autocomplete
 
 Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O Tabnine aumentará sua velocidade de desenvolvimento com conclusões de código em tempo real em todas as linguagens de codificação e IDEs mais populares. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 
 ![Tabnine](https://raw.githubusercontent.com/codota/tabnine-vscode/master/assets/completions-main.gif)
-
 
 ## Discord Presence
 
