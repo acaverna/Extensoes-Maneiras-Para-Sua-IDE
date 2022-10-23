@@ -36,6 +36,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
+  - [vscode-icons](https://marketplace.visualstudio.com/publishers/vscode-icons-team)
 
 ## Como adicionar?
 
