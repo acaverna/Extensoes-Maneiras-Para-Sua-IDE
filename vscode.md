@@ -27,6 +27,8 @@
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+  - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
+
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
@@ -185,3 +187,8 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 ## Discord Presence
 
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+
+## Beautify
+
+É um dos plugins mais famosos dos desenvolvedores, ele é um embelezador de código, tornando ele identado para arquivosjson, html, css, Sass e javascript. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
