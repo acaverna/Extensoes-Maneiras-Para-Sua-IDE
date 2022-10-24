@@ -27,6 +27,7 @@
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+  - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
@@ -185,3 +186,9 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 ## Discord Presence
 
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+
+## autoDocstring 
+
+A extensão autoDocstring gera docstrings para funções inferindo os tipos dos argumentos, valores padrão e nomes de variáveis presentes, suporta argrs, kwargs, decoradores e erros  [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+
+![autoDocstring](https://github.com/NilsJPWerner/autoDocstring/raw/HEAD/images/demo.gif)
