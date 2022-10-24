@@ -136,6 +136,11 @@ Essa extensão permite corrigir problemas de codificação antes que eles exista
 
 ![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
+
+## Beautify
+É um dos plugins mais famosos dos desenvolvedores, ele é um embelezador de código, tornando ele identado para arquivosjson, html, css, Sass e javascript. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+
 ## Omni Theme
 
 Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a comunidade. É um tema principalmente dark. [Acesse aqui.](https://github.com/getomni/visual-studio-code)
@@ -188,7 +193,4 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
-## Beautify
-
-É um dos plugins mais famosos dos desenvolvedores, ele é um embelezador de código, tornando ele identado para arquivosjson, html, css, Sass e javascript. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
