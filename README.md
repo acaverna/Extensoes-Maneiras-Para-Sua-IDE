@@ -8,8 +8,10 @@ Sinta-se a vontade para adicionar mais extensões. :D
 
 ### [PHPStorm](phpstorm.md)
 - Extensões
+  - [.env](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#.env)
+  - [.ignore](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#.ignore)
   - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#CSV)
-
+  - [Ideolog](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#Ideolog)
 ### [Vscode](vscode.md)
 - Extensões
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
