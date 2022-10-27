@@ -28,7 +28,8 @@
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
   - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-
+  - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
+  
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
@@ -187,8 +188,19 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
+
 ## autoDocstring 
 
 A extensão autoDocstring gera docstrings para funções inferindo os tipos dos argumentos, valores padrão e nomes de variáveis presentes, suporta argrs, kwargs, decoradores e erros  [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
 ![autoDocstring](https://github.com/NilsJPWerner/autoDocstring/raw/HEAD/images/demo.gif)
+
+## Code Spell Checker
+
+Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos no seu código.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+[Versão em portugês.](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-portuguese-brazilian)
+
+
+![code-spell-checker](https://user-images.githubusercontent.com/24815192/198195494-0e3995cc-3037-4fa4-801b-cf7c2f0b6b1d.png)
+
