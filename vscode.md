@@ -27,9 +27,10 @@
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
   - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+  - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
   - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
   - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
-  
+
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
@@ -136,6 +137,11 @@ Essa extensão permite corrigir problemas de codificação antes que eles exista
 
 ![sonarlint](https://raw.githubusercontent.com/SonarSource/sonarlint-vscode/master/images/sonarlint-vscode.gif)
 
+
+## Beautify
+É um dos plugins mais famosos dos desenvolvedores, ele é um embelezador de código, tornando ele identado para arquivosjson, html, css, Sass e javascript. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+
+
 ## Omni Theme
 
 Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a comunidade. É um tema principalmente dark. [Acesse aqui.](https://github.com/getomni/visual-studio-code)
@@ -189,6 +195,7 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
 
+
 ## autoDocstring 
 
 A extensão autoDocstring gera docstrings para funções inferindo os tipos dos argumentos, valores padrão e nomes de variáveis presentes, suporta argrs, kwargs, decoradores e erros  [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
@@ -203,4 +210,5 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 
 ![code-spell-checker](https://user-images.githubusercontent.com/24815192/198195494-0e3995cc-3037-4fa4-801b-cf7c2f0b6b1d.png)
+
 
