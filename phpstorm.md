@@ -4,6 +4,7 @@
   - [.ignore](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#.ignore)
   - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#CSV)
   - [Ideolog](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#Ideolog)
+  - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#SonarLint)
 
 ## [.env files support](https://plugins.jetbrains.com/plugin/9525--env-files-support)
 Essa extensão é essencial caso você trabalhe com arquivos .env e queira ter um marcador de sintaxe de arquivo .env.
@@ -15,4 +16,7 @@ Essa extensão faz realce sintaxe de arquivos ignorados.
 Essa extensão é essencial caso você trabalhe com arquivos txts ou csvs e queira vê-los em formato de tabela no PHPStorm
 
 ## [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog)
-Destaque o código com base no nível de log: error, warn, info, etc. 
+Destaque os logs com base no nível de log: error, warn, info, etc. 
+
+## [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+Tenha insights de como produzir código melhor usando um dos melhores analisadores estáticos de código do mercado.
