@@ -30,6 +30,7 @@
   - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
   - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
   - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
+- [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
@@ -211,4 +212,7 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 ![code-spell-checker](https://user-images.githubusercontent.com/24815192/198195494-0e3995cc-3037-4fa4-801b-cf7c2f0b6b1d.png)
 
+## Jupyter
 
+Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
+[Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
