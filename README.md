@@ -12,6 +12,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [.ignore](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#.ignore)
   - [CSV](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#CSV)
   - [Ideolog](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#Ideolog)
+  - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/phpstorm.md#SonarLint)
 ### [Vscode](vscode.md)
 - Extensões
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
