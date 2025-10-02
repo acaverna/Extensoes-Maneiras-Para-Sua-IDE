@@ -31,7 +31,10 @@
   - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
   - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
   - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
-- [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
+  - [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
+  - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) 
+  - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+  - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
