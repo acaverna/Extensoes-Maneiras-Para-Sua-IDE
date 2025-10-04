@@ -54,6 +54,9 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
   - [vscode-icons](https://marketplace.visualstudio.com/publishers/vscode-icons-team)
 
+- Outras Personalizações
+  - [VS Code Pets](https://tonybaloney.github.io/vscode-pets/)
+    
 ## Como adicionar?
 
 Crie um arquivo Markdown com o nome da sua IDE (no formato ide.md), e insira suas extensões favoritas no arquivo utilizando a sintaxe ```## nome``` e se possível adicione também o link para as pessoas acessarem a extensão diretamente do repositório.
