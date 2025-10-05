@@ -166,7 +166,7 @@ Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a com
 
 ![Omni Theme](https://camo.githubusercontent.com/2d3414ef89c3ac470d279e356288b874f3f180f035213cbf7de88c596cef297e/68747470733a2f2f692e696d6775722e636f6d2f7655514e4558562e706e67)
 
-## Drácula Theme
+## Dracula Theme
 
 Drácula é um tema dark para Vscode. [Acesse aqui.](https://github.com/dracula/visual-studio-code)
 
@@ -178,14 +178,13 @@ O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trab
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
 
-
 ## Postman
 Postman é uma ferramenta popular para testar APIs. Com a extensão Postman para VSCode, você pode enviar solicitações HTTP diretamente do seu editor, facilitando o desenvolvimento e a depuração de APIs. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
 
 ## Prettier
 Prettier é um formatador de código que suporta várias linguagens e integra-se com muitos editores, incluindo o VSCode. Ele ajuda a manter um estilo de código consistente, formatando automaticamente seu código ao salvar ou por meio de comandos específicos. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## One Dark Pro
+## One Dark Pro Theme
 
 O One Dark Pro é um tema dark para VsCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
