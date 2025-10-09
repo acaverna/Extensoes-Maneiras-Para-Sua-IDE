@@ -43,6 +43,7 @@
   - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
   - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
   - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
+  - [SynthWave '84](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#synthwave-84)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -164,7 +165,7 @@ Essa extensão permite corrigir problemas de codificação antes que eles exista
 
 Omni Theme é um tema de Vscode feito pelo pessoal da Rocketseat para toda a comunidade. É um tema principalmente dark. [Acesse aqui.](https://github.com/getomni/visual-studio-code)
 
-![Omni Theme](https://camo.githubusercontent.com/2d3414ef89c3ac470d279e356288b874f3f180f035213cbf7de88c596cef297e/68747470733a2f2f692e696d6775722e636f6d2f7655514e4558562e706e67)
+![Omni Theme](https://i.imgur.com/vUQNEXV.png)
 
 ## Dracula Theme
 
@@ -230,3 +231,8 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+## SynthWave '84
+Synthwave '84 é uma extensão de tema para o editor de código Visual Studio Code (VS Code) inspirada no gênero musical Synthwave, caracterizada por um efeito visual de brilho (glow) que simula luzes de néon, oferecendo uma experiência estética única aos desenvolvedores. [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
+
+![SynthWave84-theme](https://github.com/user-attachments/assets/5d875f2f-311d-4630-9297-4d121770f783)
