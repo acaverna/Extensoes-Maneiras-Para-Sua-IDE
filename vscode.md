@@ -1,51 +1,55 @@
 # Visual Studio Code
 
 - Extensões
+  - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+  - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
+  - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
   - [Better Comments](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#better-comments)
   - [Bracket Pair Colorizer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#bracket-pair-colorizer)
   - [Code Runner](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-runner)
+  - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+  - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
+  - [GitHub Copilot](https://copilot.github.com)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
+  - [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
   - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
   - [Markdown Preview Enhanced](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#markdown-preview-enhanced)
-  - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
+  - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
   - [PHP Intelephense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#php-intelephense)
+  - [PlatformIO IDE](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#platformio-ide)
   - [Polacode](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#polacode)
+  - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [Regex Previewer](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#regex-previewer)
   - [SonarLint](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#sonarlint)
+  - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+  - [Tailwind CSS IntelliSense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#tailwind-css-intellisense)
   - [TODO Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#todo-highlight)
   - [Thunder Client](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#thunder-client)
-  - [GitHub Copilot](https://copilot.github.com)
-  - [Peacock](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#peacock)
-  - [Tailwind CSS IntelliSense](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#tailwind-css-intellisense)
   - [TypeScript Error Translator](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#typescript-error-translator)
-  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-  - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
-  - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
-  - [Beautify](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#Beautify)
-  - [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
-  - [Code Spell Checker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#code-spell-checker)
-  - [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
   - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
-  - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
-  - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
 
 - Temas
-  - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
-  - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
-  - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
-  - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
-  - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
+  - [Caverna Theme](#caverna-theme)
+  - [Dracula Official](#dracula-theme)
+  - [Omni Theme](#omni-theme)
+  - [One Dark Pro](#one-dark-pro-theme)
+  - [Soft Era Theme](#soft-era-theme)
 
 - Icones
-  - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
+  - [Material Icon Theme](#material-icon-theme)
+
+
+## AVD Manager
+Essa extensão adiciona comandos para iniciar e criar Android Virtual Devices (AVDs) diretamente do Visual Studio Code. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
 
 ## Mussum Ipsum
 
@@ -60,6 +64,15 @@ Essa extensão colore parênteses, colchetes e chaves correspondentes com uma me
 
 > A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
 > Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
+
+## Conventional Commits
+Essa extensão ajuda você a escrever mensagens de commit seguindo o padrão de Conventional Commits. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+
+## EditorConfig
+EditorConfig ajuda os desenvolvedores a definir e manter estilos de codificação consistentes entre diferentes editores e IDEs. O EditorConfig funciona com arquivos .editorconfig, que definem estilos de codificação para projetos específicos. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+## GitHub Copilot
+O GitHub Copilot é um assistente de programação AI que ajuda você a escrever código mais rápido e com menos esforço. Ele sugere linhas inteiras ou funções completas em tempo real, diretamente no seu editor. [Acesse aqui.](https://copilot.github.com)
 
 ## Indent-Rainbow
 
@@ -178,6 +191,12 @@ O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trab
 
 ![peacock](https://user-images.githubusercontent.com/24815192/196083608-e16a2ab6-52a1-4fa1-b2ce-658560432dc7.png)
 
+## Postman
+Postman é uma ferramenta popular para testar APIs. Com a extensão Postman para VSCode, você pode enviar solicitações HTTP diretamente do seu editor, facilitando o desenvolvimento e a depuração de APIs. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
+
+## Prettier
+Prettier é um formatador de código que suporta várias linguagens e integra-se com muitos editores, incluindo o VSCode. Ele ajuda a manter um estilo de código consistente, formatando automaticamente seu código ao salvar ou por meio de comandos específicos. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ## One Dark Pro Theme
 
 O One Dark Pro é um tema dark para VsCode. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
@@ -212,7 +231,7 @@ Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O
 
 Discord Presence deixa seu perfil do Discord mais bonito, mostra o que você está editando no VSCode quando alguém clica no seu perfil. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
-## autoDocstring
+## autoDocstring 
 
 A extensão autoDocstring gera docstrings para funções inferindo os tipos dos argumentos, valores padrão e nomes de variáveis presentes, suporta argrs, kwargs, decoradores e erros  [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
 
@@ -230,3 +249,7 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+
+## WakaTime
+WakaTime é uma extensão que monitora o tempo que você gasta codificando, fornecendo insights sobre sua produtividade e hábitos de trabalho. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
