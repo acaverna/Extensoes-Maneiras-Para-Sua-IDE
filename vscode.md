@@ -7,6 +7,7 @@
   - [CodeStream](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#codestream)
   - [Color Highlight](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#color-highlight)
   - [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+  - [Docker](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#docker)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
@@ -54,12 +55,17 @@ Com essa extensão você pode gerar textos aleatórios no estilo do Mussum Ipsum
 ## Better Comments
 
 Com essa extensão você pode categorizar alguns comentários do seu código com símbolos especiais ou com a palavra TODO. Os comentários que possuam categorias associadas a esta extensão serão destacados no seu código, facilitando a visualização do que ainda precisa ser feito. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
 ## Bracket Pair Colorizer
 
 Essa extensão colore parênteses, colchetes e chaves correspondentes com uma mesma cor. Permite que você identifique onde os escopos estão sendo abertos e fechados com mais facilidade. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 > A partir da versão [1.60 do VSCode](https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization) existe a implementação nativa de _Bracket pair colorization_.
 > Para ativar o recurso basta ativar nas configurações ```"editor.bracketPairColorization.enabled": true```.  
+
+## Docker
+
+Essa extensão oferece uma interface visual para containers, imagens e registries — essencial pra quem usa Docker. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 ## Indent-Rainbow
 
