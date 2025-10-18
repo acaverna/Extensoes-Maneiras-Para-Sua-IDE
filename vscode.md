@@ -36,6 +36,7 @@
   - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
   - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
+  - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
