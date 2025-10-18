@@ -22,6 +22,7 @@ Sinta-se a vontade para adicionar mais extensões. :D
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - [GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview)
+  - [Git Graph](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-graph)
   - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)

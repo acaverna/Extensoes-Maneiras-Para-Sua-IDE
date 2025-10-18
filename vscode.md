@@ -9,6 +9,7 @@
   - [Conventional Commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
   - [Error Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#error-lens)
   - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - [Git Graph](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-graph)
   - [Git History](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-history)
   - [Git Lens](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#git-lens)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
@@ -230,3 +231,10 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+## Git Graph
+
+Visualize um gráfico dos comandos Git do seu repositório e execute facilmente comandos Git a partir dele. Gráfico configurável para se adequar com seu gosto.
+[Acesse aqui](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+![Tabnine](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
