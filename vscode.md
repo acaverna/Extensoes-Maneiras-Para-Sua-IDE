@@ -38,6 +38,7 @@
   - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
 
 - Temas
+  - [Bearded Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/msater/vscode.md#bearded-theme)
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
   - [Omni Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#omni-theme)
   - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
@@ -90,6 +91,10 @@ O PHP Intelephense é uma extensão que te ajuda a ter uma melhor produtividade 
 
 Extensão que permite que você rode os seus códigos com um clique ou um atalho de teclado. Tem suporte nativo para várias linguagens, e se você preferir pode configurar como um arquivo de determinada linguagem será rodado.
 [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+## Bearded Theme
+
+Bearded Theme é um tema de Vscode que trás inumeras opções de cores para deixar o Vscode a sua cara. [Acesse aqui.](https://github.com/BeardedBear/bearded-theme)
 
 ## Caverna Theme
 
