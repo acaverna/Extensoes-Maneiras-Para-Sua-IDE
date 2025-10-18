@@ -44,6 +44,7 @@
   - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
   - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
   - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
+  - [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -210,6 +211,11 @@ Soft Era Theme é um tema de Vscode feito pelo pessoal da [Soft Aesthetic](https
 
 ![Soft Era Theme](https://github.com/soft-aesthetic/soft-era-vs-code/raw/master/screenshot.png)
 
+## Aura Theme
+Aura Theme é um tema de Vscode feito pelo [Dalton Menezes](https://github.com/daltonmenezes) para todas as pessoas que gostam de temas escuros, possuindo quatro variantes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+
+![Aura Theme](https://github.com/daltonmenezes/assets/blob/master/images/aura-theme/aura-vscode-preview.png?raw=true)
+
 ## Tabnine AI Autocomplete
 
 Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O Tabnine aumentará sua velocidade de desenvolvimento com conclusões de código em tempo real em todas as linguagens de codificação e IDEs mais populares. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
@@ -238,3 +244,5 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+
