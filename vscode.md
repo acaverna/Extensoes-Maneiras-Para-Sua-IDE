@@ -172,6 +172,12 @@ Dr√°cula √© um tema dark para Vscode. [Acesse aqui.](https://github.com/dracula/
 
 ![Dr√°cula Theme](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
 
+## Panda Theme
+
+Um tema de sintaxe superminimalista e escuro.… um tema de sintaxe escuro criado especialmente para o Visual Studio Code, com cores suaves que foram pensadas para serem agrad·veis ??aos olhos.
+
+![Panda Theme](https://github.com/siamak/panda-syntax-vscode)
+
 ## Peacock
 
 O Peacock permite a troca de cores do VSCode por workspace. Ideal para quem trabalha com mais de uma janela aberta em projetos diferentes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
