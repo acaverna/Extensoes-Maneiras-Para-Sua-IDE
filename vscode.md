@@ -92,6 +92,13 @@ O PHP Intelephense é uma extensão que te ajuda a ter uma melhor produtividade 
 Extensão que permite que você rode os seus códigos com um clique ou um atalho de teclado. Tem suporte nativo para várias linguagens, e se você preferir pode configurar como um arquivo de determinada linguagem será rodado.
 [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
+## Svg Preview
+
+Extensão que permite que você visualize um preview de um arquivo svg.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+
+![Svg Preview](https://github.com/SimonSiefke/vscode-svg-preview/raw/master/demo_images/demo.gif)
+
 ## Caverna Theme
 
 Caverna Theme é um tema de Vscode feito diretamente para a comunidade da Caverna do Patocornio. É um tema principalmente azul escuro e claro. [Acesse aqui.](https://github.com/acaverna/caverna-vscode-theme)
