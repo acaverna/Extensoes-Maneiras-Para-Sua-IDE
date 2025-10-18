@@ -36,6 +36,7 @@
   - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - [Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)
   - [AVD Manager](https://marketplace.visualstudio.com/items?itemName=toroxx.vscode-avdmanager)
+  - [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 
 - Temas
   - [Caverna Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#caverna-theme)
@@ -43,6 +44,7 @@
   - [One Dark Pro](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#one-dark-pro-theme)
   - [Dracula Official](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#dracula-theme)
   - [Soft Era Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#soft-era-theme)
+  - [Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
 
 - Icones
   - [Material Icon Theme](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#material-icon-theme)
@@ -90,6 +92,13 @@ O PHP Intelephense é uma extensão que te ajuda a ter uma melhor produtividade 
 
 Extensão que permite que você rode os seus códigos com um clique ou um atalho de teclado. Tem suporte nativo para várias linguagens, e se você preferir pode configurar como um arquivo de determinada linguagem será rodado.
 [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+## Svg Preview
+
+Extensão que permite que você visualize um preview de um arquivo svg.
+[Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+
+![Svg Preview](https://github.com/SimonSiefke/vscode-svg-preview/raw/master/demo_images/demo.gif)
 
 ## Caverna Theme
 
@@ -202,6 +211,11 @@ Soft Era Theme é um tema de Vscode feito pelo pessoal da [Soft Aesthetic](https
 
 ![Soft Era Theme](https://github.com/soft-aesthetic/soft-era-vs-code/raw/master/screenshot.png)
 
+## Aura Theme
+Aura Theme é um tema de Vscode feito pelo [Dalton Menezes](https://github.com/daltonmenezes) para todas as pessoas que gostam de temas escuros, possuindo quatro variantes. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
+
+![Aura Theme](https://github.com/daltonmenezes/assets/blob/master/images/aura-theme/aura-vscode-preview.png?raw=true)
+
 ## Tabnine AI Autocomplete
 
 Tabnine é um assistente de código de IA que o torna um desenvolvedor melhor. O Tabnine aumentará sua velocidade de desenvolvimento com conclusões de código em tempo real em todas as linguagens de codificação e IDEs mais populares. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
@@ -230,3 +244,5 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+
