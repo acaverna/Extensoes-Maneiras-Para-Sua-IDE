@@ -230,3 +230,6 @@ Code Spell Checker é uma extensão que ajuda a identificar erros ortográficos 
 
 Um Notebook Jupyter é um ambiente computacional web para a para criação de documentos para a plataforma Jupyter, bastante utilizado para programar em Python.
 [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
+
+## SQLite Viewer
+Uma extensão para visualizar arquivos SQLite direto do VS Code. Muito útil para quem precisa ver arquivos pequenos de forma rápida e organizada. [Acesse aqui](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer).
