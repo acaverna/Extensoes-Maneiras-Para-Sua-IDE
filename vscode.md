@@ -20,6 +20,7 @@
   - [GitHub Copilot](https://copilot.github.com)
   - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
   - [Indent-Rainbow](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#indent-rainbow)
+  - [In Your Face](https://marketplace.visualstudio.com/items?itemName=TTOOWA.in-your-face-incredible)
   - [Jupyter](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#jupyter)
   - [Live Server](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-server)
   - [Live Share](https://github.com/acaverna/Extensoes-Maneiras-Para-Sua-IDE/blob/master/vscode.md#live-share)
@@ -67,6 +68,10 @@ A extensão autoDocstring gera docstrings para funções inferindo os tipos dos 
 
 ## Beautify
 
+## In Your Face
+Essa extensão exibe “Ouch Faces” do senhor incrível que correspondem ao número de erros no seu código, oferecendo um feedback visual divertido e imediato sobre problemas no seu desenvolvimento. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=TTOOWA.in-your-face-incredible)
+
+## Live Server
 É um dos plugins mais famosos dos desenvolvedores, ele é um embelezador de código, tornando ele identado para arquivosjson, html, css, Sass e javascript. [Acesse aqui.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
 ## Better Comments
